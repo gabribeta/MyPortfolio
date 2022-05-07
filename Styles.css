@@ -1,0 +1,118 @@
+#home{
+  margin-top: 60px;
+  margin-left: 30px;
+  text-align: center;
+}
+
+#aboutme{
+  margin-left: 30px;
+  margin-top: 15%;
+  background-color: #FCF8EC;
+  color:#000000
+}
+
+
+#certificates{
+  margin-left: 30px;
+  margin-top: 15%;
+  background-color: #FCF8EC;
+  color:#000000
+}
+
+#Skills{
+  background-color: #FCF8EC;
+  margin-left: 30px;
+  margin-top: 15%;
+  background-color: #FCF8EC;
+  color:#000000
+}
+
+.tabs a i{
+  margin-right:5px;
+}
+
+p, h2, h3, h1 {
+    font-family: Comic Sans MS;
+}
+h2{
+  color: rgb(9, 168, 173);
+}
+
+#foto{
+  max-width: 40%;
+  height: auto;
+  margin: 20px;
+  padding: 5px;
+  display: inline-block;
+  margin: auto;
+}
+.zoom {
+  transition: transform .2s;
+  margin-left: 25px;
+  color: #fbfbfa;
+}
+.zoom:hover {
+  transform: scale(1.5); 
+}
+
+.fab, .far {
+  font-weight: 400;
+}
+#main-footer {
+  background: #fff;
+  margin-top: 20%;
+}
+
+#main-footer p a {
+  padding-bottom: 40px;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+#main-footer p {
+  text-align: center; 
+}
+
+.social-links {
+  list-style:none;
+  margin:0;
+  padding:0;
+  margin-bottom:30px;
+}
+
+.social-links li{
+  display:inline-block;
+  margin:0 5px;
+  border-radius:3px;
+  box-shadow:0 4px 0 transparent;
+  -webkit-transition:all .3s ease-out;
+  transition:all .3s ease-out;
+}
+
+.social-links li a {
+  display:block;
+  color:#fff;
+  font-size:21px;
+  width:50px;
+  height:50px;
+  line-height:50px;
+  text-align:center;
+  border-radius:50%;
+  -webkit-transition:all .3s ease-out;
+  transition:all .3s ease-out;
+}
+
+.social-links li a:hover {
+  color:#fff;
+  background:#9cc5c5;
+}
+
+#footext{
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+}
+
+.text-center{
+  text-align: center;
+}
+
